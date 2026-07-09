@@ -1,15 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Aman%20Kumar&desc=Java%20Developer%20|%20DSA%20Enthusiast%20|%20Future%20ML%20Engineer&descAlignY=68&fontSize=48&fontColor=ffffff&animation=twinkling"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-
-<h3 align="center">
-💻 Java Developer • 📚 DSA Enthusiast • 🎓 BCA Student • 🚀 Future ML Engineer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;I+Love+Java+Programming;Solving+DSA+Problems+Daily;Building+Awesome+Projects;Always+Learning+New+Things+🚀"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Aman%20Kumar&desc=MERN%20Developer%20|%20DSA(Java)%20|%20AI/ML%20Enthusiast&descAlignY=68&fontSize=48&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ---
@@ -42,7 +32,7 @@ class AmanKumar{
 
 - 🎓 BCA Student
 
-- 💻 Java Developer
+- 💻 MERN Developer
 
 - 📚 Solving DSA Daily
 
@@ -50,21 +40,28 @@ class AmanKumar{
 
 - 🤖 Learning AI & Machine Learning
 
-- 🌱 Always Learning
+-  Always Learning
 
 ---
 
+
 # 🚀 Tech Stack
 
+### 💻 Languages
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ---
 
@@ -72,9 +69,9 @@ class AmanKumar{
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamanjhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=iamanjhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=iamanjhaa&theme=tokyonight&hide_border=true"/>
+<img height="130" src="https://streak-stats.demolab.com?user=iamanjhaa&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,13 +93,6 @@ class AmanKumar{
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamanjhaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
