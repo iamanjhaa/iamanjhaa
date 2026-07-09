@@ -1,4 +1,4 @@
-<p align="center">
+p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Aman%20Kumar&desc=MERN%20Developer%20|%20DSA(Java)%20|%20AI/ML%20Enthusiast&descAlignY=68&fontSize=48&fontColor=ffffff&animation=twinkling"/>
 </p>
 
