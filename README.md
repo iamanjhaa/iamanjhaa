@@ -117,7 +117,7 @@ class AmanKumar {
 
 </div>
 
-> 💡 Update the links above with the direct URLs to each repository.
+
 
 <br/>
 
