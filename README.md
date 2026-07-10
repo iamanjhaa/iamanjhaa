@@ -111,7 +111,7 @@ class AmanKumar {
 | Project | Description |
 |---|---|
 | ⭐ **[AI Attendance System](https://github.com/iamanjhaa)** | Smart attendance tracking using AI/ML |
-| ⭐ **[Spotify Clone](https://github.com/iamanjhaa)** | Full-stack music streaming app clone |
+| ⭐ **[Spotify Clone](https://github.com/iamanjhaa)** | Spotify music streaming app clone Design|
 | ⭐ **[Simon Says Game](https://github.com/iamanjhaa)** | Interactive memory-based browser game |
 | ⭐ **[Calculator](https://github.com/iamanjhaa)** | A clean, functional web-based calculator |
 
