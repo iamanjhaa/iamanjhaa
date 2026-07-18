@@ -116,7 +116,7 @@ class AmanKumar {
 
 | Project | Description |
 |---|---|
-| ⭐ **[Spotify Clone](https://github.com/iamanjhaa)** | Spotify music streaming app clone Design|
+| ⭐ **[Spotify Clone](https://iamanjhaa.github.io/Spotify-Clone-web/)** | Spotify music streaming app clone Design|
 | ⭐ **[Simon Says Game](https://github.com/iamanjhaa/SIMON-SAYS-GAME.git)** | Interactive memory-based browser game |
 | ⭐ **[Calculator](https://github.com/iamanjhaa/My-Calculator.git)** | A clean, functional web-based calculator |
 
