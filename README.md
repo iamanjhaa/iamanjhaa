@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=iamanjhaa&label=Profile%20Views&color=6a11cb&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/iamanjhaa?logo=github&style=for-the-badge&color=2575fc&labelColor=black"/>
+
 
 </div>
 
