@@ -151,7 +151,6 @@ class AmanKumar {
 
 ### ⭐ Thanks for visiting my profile ⭐
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
 
