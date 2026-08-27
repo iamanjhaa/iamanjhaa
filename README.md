@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6a11cb,100:2575fc&text=Hi%20There,%20I'm%20Aman%20Kumar&desc=MERN%20Developer%20|%20DSA%20(Java)%20|%20AI/ML%20Enthusiast&descAlignY=68&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects+%F0%9F%9A%80;Solving+DSA+Daily+%F0%9F%93%9A;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Software+%26+ML+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects+%F0%9F%9A%80;%F0%9F%93%9A;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Software+%26+ML+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,8 +32,7 @@ class AmanKumar {
 ```
 
 
-- 💻 &nbsp;MERN Stack Developer building real-world applications  
-- 📚 &nbsp;Solving DSA problems daily in **Java**  
+- 💻 &nbsp;MERN Stack Developer building real-world applications   
 - 🤖 &nbsp;Diving into **AI & Machine Learning**  
 - 🌱 &nbsp;Always learning, always shipping  
 - 💬 &nbsp;Ask me about **Java, DSA, or the MERN Stack**
