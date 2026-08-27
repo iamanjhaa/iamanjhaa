@@ -19,7 +19,7 @@
 
 ```java
 class AmanKumar {
-    private String education = "BCA Student";
+   
     private String language = "Java";
     private String currentFocus = "Data Structures & Algorithms";
     private String[] interests = {"MERN Stack", "AI/ML", "Competitive Programming"};
@@ -31,7 +31,7 @@ class AmanKumar {
 }
 ```
 
-- 🎓 &nbsp;BCA Student, passionate about problem solving  
+
 - 💻 &nbsp;MERN Stack Developer building real-world applications  
 - 📚 &nbsp;Solving DSA problems daily in **Java**  
 - 🤖 &nbsp;Diving into **AI & Machine Learning**  
