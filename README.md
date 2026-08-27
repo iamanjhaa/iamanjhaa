@@ -15,7 +15,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
 ```java
 class AmanKumar {
@@ -26,7 +26,7 @@ class AmanKumar {
     private String goal = "Software Engineer & ML Engineer";
 
     public void motto() {
-        System.out.println("Keep Learning • Keep Building • Keep Growing 🚀");
+        System.out.println("Keep Learning • Keep Building • Keep Growing ");
     }
 }
 ```
@@ -40,7 +40,7 @@ class AmanKumar {
 
 <br/>
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -64,7 +64,7 @@ class AmanKumar {
 
 <br/>
 
-# 👨‍💻 Coding Illustration
+#  Coding Illustration
 
 <p align="center">
 <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
