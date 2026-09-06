@@ -118,7 +118,7 @@ class AmanKumar {
 
 
 
-| ⭐ **[SAHAYAK AI-CHATBOT](ai-chatbot-8bde.onrender.com/)** | SAHAYAK is ai-powered based CHAT-BOT. It is working like a Assistant|
+| ⭐ **[SAHAYAK AI-CHATBOT](ai-chatbot-8bde.onrender.com/)** | SAHAYAK is ai-powered based CHAT-BOT |
 | ⭐ **[Simon Says Game](https://iamanjhaa.github.io/SIMON-SAYS-GAME/)** | Interactive memory-based browser game |
 | ⭐ **[Spotify Clone](https://iamanjhaa.github.io/Spotify-Clone-web/)** | Spotify music streaming app clone Design|
 | ⭐ **[Calculator](https://iamanjhaa.github.io/My-Calculator/)** | A clean, functional web-based calculator |
