@@ -1,160 +1,177 @@
-<div align="center">
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,100:2575FC&text=Hi%20There!%20I'm%20Aman%20Kumar%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=MERN%20Developer%20%7C%20DSA%20(Java)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20"/><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+💻;DSA+%7C+Java+Enthusiast+☕;Building+Real-World+Projects+🚀;Exploring+AI+%26+Machine+Learning+🤖;Turning+Ideas+Into+Products+✨" alt="Typing SVG" />
+</a><br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6a11cb,100:2575fc&text=Hi%20There,%20I'm%20Aman%20Kumar&desc=MERN%20Developer%20|%20DSA%20(Java)%20|%20AI/ML%20Enthusiast&descAlignY=68&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<img src="https://komarev.com/ghpvc/?username=iamanjhaa&label=PROFILE%20VIEWS&color=6A11CB&style=for-the-badge"/><br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Software+%26+ML+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+<a href="https://github.com/iamanjhaa">
+<img src="https://img.shields.io/github/followers/iamanjhaa?label=Followers&style=for-the-badge&color=2575FC"/>
+</a><a href="https://github.com/iamanjhaa?tab=repositories">
+<img src="https://img.shields.io/github/stars/iamanjhaa?label=Stars&style=for-the-badge&color=6A11CB"/>
+</a></div>---
 
-<br/>
+👨‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=iamanjhaa&label=Profile%20Views&color=6a11cb&style=for-the-badge"/>
-
-
-</div>
-
-<br/>
-
-## About Me
-
-```java
 class AmanKumar {
-   
-    private String language = "Java";
-    private String currentFocus = "Data Structures & Algorithms";
-    private String[] interests = {"MERN Stack", "AI/ML", "Competitive Programming"};
-    private String goal = "Software Engineer & ML Engineer";
 
-    public void motto() {
-        System.out.println("Keep Learning • Keep Building • Keep Growing ");
+    String role = "MERN Stack Developer";
+    String primaryLanguage = "Java";
+    
+    String[] interests = {
+        "Data Structures & Algorithms",
+        "Web Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Competitive Programming"
+    };
+
+    String goal = "Software Engineer & ML Engineer";
+
+    void motto() {
+        System.out.println(
+            "Learn → Build → Break → Fix → Repeat 🚀"
+        );
     }
 }
-```
 
-
-- 💻 &nbsp;MERN Stack Developer building real-world applications   
-- 🤖 &nbsp;Diving into **AI & Machine Learning**  
-- 🌱 &nbsp;Always learning, always shipping  
-- 💬 &nbsp;Ask me about **Java, DSA, or the MERN Stack**
-
-<br/>
-
-##  Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-
-**Frontend & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
-
-<br/>
-
-#  Coding Illustration
-
-<p align="center">
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+💻 MERN Stack Developer building real-world applications
+☕ Practicing Java & Data Structures & Algorithms
+🤖 Exploring Artificial Intelligence & Machine Learning
+🚀 Interested in building products that solve real problems
+🌱 Constantly learning and improving
+💬 Ask me about Java, DSA, MERN Stack & Web Development
 
 ---
-</br>
 
+🛠️ Tech Stack
 
-## 📈 GitHub Analytics
+<div align="center">💻 Languages
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css" /><br/><br/>
 
+⚛️ Frontend
 
-<img height="165" src="https://streak-stats.demolab.com?user=iamanjhaa&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br/><br/>
 
+⚙️ Backend
 
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
 
-</div>
+🗄️ Databases
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /><br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamanjhaa&theme=tokyo-night&hide_border=true" width="100%"/>
+🤖 AI / ML
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" /><br/><br/>
 
+🔧 Tools & Platforms
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" /></div>---
 
-<br/>
+🚀 What I'm Currently Working On
 
-## 📚 Currently Learning
+<div align="center">🔥 Area| 🎯 Focus
+💻 Web Development| MERN / Next.js
+☕ Programming| Java
+🧠 DSA| Problem Solving & Algorithms
+🤖 AI/ML| Machine Learning & AI Applications
+🚀 Projects| Real-world Full-Stack Applications
+🌐 Open Source| Building & Sharing Projects
 
-<div align="center">
+</div>---
 
-![Java](https://img.shields.io/badge/Java-✅-brightgreen?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data%20Structures-✅-brightgreen?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-🔄-yellow?style=for-the-badge)
-![CP](https://img.shields.io/badge/Competitive%20Programming-🔄-yellow?style=for-the-badge)
-![MERN](https://img.shields.io/badge/MERN%20Stack-🔄-yellow?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine%20Learning-🔄-yellow?style=for-the-badge)
+📚 Currently Learning
 
-</div>
+<div align="center">"Java" (https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br/>
+"DSA" (https://img.shields.io/badge/DSA-Learning-2575FC?style=for-the-badge)
 
-## 🌟 Featured Projects
+"Algorithms" (https://img.shields.io/badge/Algorithms-Learning-yellow?style=for-the-badge)
 
-<div align="center">
+"Competitive Programming" (https://img.shields.io/badge/Competitive%20Programming-Learning-yellow?style=for-the-badge)
 
-| Project | Description |
-|---|---|
+"MERN" (https://img.shields.io/badge/MERN%20Stack-Active%20Development-61DAFB?style=for-the-badge)
 
+"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge)
 
+</div>---
 
-| ⭐ **[SAHAYAK AI-CHATBOT](https://ai-chatbot-8bde.onrender.com/)** | SAHAYAK is ai-powered based CHAT-BOT |
-| ⭐ **[Simon Says Game](https://iamanjhaa.github.io/SIMON-SAYS-GAME/)** | Interactive memory-based browser game |
-| ⭐ **[Spotify Clone](https://iamanjhaa.github.io/Spotify-Clone-web/)** | Spotify music streaming app clone Design|
-| ⭐ **[Calculator](https://iamanjhaa.github.io/My-Calculator/)** | A clean, functional web-based calculator |
+🌟 Featured Projects
 
-</div>
+<div align="center">🚀 Project| 💡 Description
+🤖 "SAHAYAK AI" (https://ai-chatbot-8bde.onrender.com/)| AI-powered chatbot designed to assist users with intelligent conversations
+🎮 "Simon Says Game" (https://iamanjhaa.github.io/SIMON-SAYS-GAME/)| Interactive memory-based browser game
+🎵 "Spotify Clone" (https://iamanjhaa.github.io/Spotify-Clone-web/)| Modern Spotify-inspired music streaming UI
+🧮 "Calculator" (https://iamanjhaa.github.io/My-Calculator/)| Clean and responsive web-based calculator
 
+</div><br/><div align="center"><a href="https://github.com/iamanjhaa?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-2575FC?style=for-the-badge"/>
+</a></div>---
 
+📊 GitHub Analytics
 
-<br/>
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=iamanjhaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanjhaa&layout=compact&theme=tokyonight&hide_border=true"/></div><br/><div align="center"><img src="https://streak-stats.demolab.com?user=iamanjhaa&theme=tokyonight&hide_border=true" /></div><br/><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=iamanjhaa&theme=tokyo-night&hide_border=true&area=true" width="100%"/></div>---
 
-## 🌐 Connect With Me
+💡 My Developer Journey
 
-<div align="center">
+                 🚀 SOFTWARE ENGINEERING
+                          │
+          ┌───────────────┼───────────────┐
+          │               │               │
+       💻 WEB          🧠 DSA          🤖 AI/ML
+          │               │               │
+       MERN            Java          Python
+          │               │               │
+      Next.js        Algorithms      Machine Learning
+          │               │               │
+          └───────────────┼───────────────┘
+                          │
+                    🌎 REAL-WORLD
+                      PROJECTS
+                          │
+                          ▼
+                    🚀 BUILDING
 
-<a href="mailto:amanjha411@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aman-kumar-jhaa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/amankr77" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/amankr_7" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+---
 
-</div>
+🏆 Goals
 
-<br/>
+- [ ] Become a strong Software Engineer
+- [ ] Master DSA & Problem Solving
+- [ ] Build production-ready Full-Stack Applications
+- [ ] Develop strong AI/ML fundamentals
+- [ ] Contribute to Open Source
+- [ ] Build products that solve real-world problems
 
-<div align="center">
+---
 
-### ⭐ Thanks for visiting my profile ⭐
+📈 Coding Profiles
 
+<div align="center"><a href="https://leetcode.com/amankr_7">
+<img src="https://img.shields.io/badge/LeetCode-amankr__7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a><a href="https://www.geeksforgeeks.org/profile/amankr77">
+<img src="https://img.shields.io/badge/GeeksforGeeks-amankr77-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a></div>---
 
-</div>
+🤝 Let's Connect
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2575fc,100:6a11cb"/>
+<div align="center"><a href="mailto:amanjha411@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/aman-kumar-jhaa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/iamanjhaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://leetcode.com/amankr_7">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a></div>---
+
+<div align="center">💭 Developer Quote
+
+«"Don't just learn technology. Build something people need." 🚀»
+
+<br/>⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, consider giving them a ⭐
+
+<br/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2575FC,100:6A11CB"/></div>
