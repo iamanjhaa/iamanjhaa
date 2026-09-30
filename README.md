@@ -13,7 +13,7 @@
 
 Hi, I’m Aman Kumar, a developer interested in AI/ML and software development. I enjoy building projects, exploring new technologies, and learning by working on real-world problems.
 
-Currently, I’m focused on improving my DSA and development skills while exploring AI/ML and research. I also enjoy participating in hackathons and turning ideas into practical projects.
+Currently, I’m focused on improving my web development skills while exploring AI/ML and research. I also enjoy participating in hackathons and turning ideas into practical projects.
 
 Always learning, building, and looking for opportunities to create something useful.
 
@@ -48,7 +48,6 @@ Always learning, building, and looking for opportunities to create something use
 <div align="center">🔥 Area| 🎯 Focus
 💻 Web Development| MERN / Next.js
 ☕ Programming| Java
-🧠 DSA| Problem Solving & Algorithms
 🤖 AI/ML| Machine Learning & AI Applications
 🚀 Projects| Real-world Full-Stack Applications
 🌐 Open Source| Building & Sharing Projects
