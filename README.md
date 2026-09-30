@@ -10,40 +10,14 @@
 <img src="https://img.shields.io/github/stars/iamanjhaa?label=Stars&style=for-the-badge&color=6A11CB"/>
 </a></div>---
 
-👨‍💻 About Me
+ #About Me
+Hi, I’m Aman Kumar, a developer interested in AI/ML and software development. I enjoy building projects, exploring new technologies, and learning by working on real-world problems.
 
-class AmanKumar {
+Currently, I’m focused on improving my DSA and development skills while exploring AI/ML and research. I also enjoy participating in hackathons and turning ideas into practical projects.
 
-    String role = "MERN Stack Developer";
-    String primaryLanguage = "Java";
-    
-    String[] interests = {
-        "Data Structures & Algorithms",
-        "Web Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Competitive Programming"
-    };
+Always learning, building, and looking for opportunities to create something useful.
 
-    String goal = "Software Engineer & ML Engineer";
-
-    void motto() {
-        System.out.println(
-            "Learn → Build → Break → Fix → Repeat 🚀"
-        );
-    }
-}
-
-💻 MERN Stack Developer building real-world applications
-☕ Practicing Java & Data Structures & Algorithms
-🤖 Exploring Artificial Intelligence & Machine Learning
-🚀 Interested in building products that solve real problems
-🌱 Constantly learning and improving
-💬 Ask me about Java, DSA, MERN Stack & Web Development
-
----
-
-🛠️ Tech Stack
+ #Tech Stack
 
 <div align="center">💻 Languages
 
