@@ -10,14 +10,14 @@
 <img src="https://img.shields.io/github/stars/iamanjhaa?label=Stars&style=for-the-badge&color=6A11CB"/>
 </a></div>---
 
- About Me
+
 Hi, I’m Aman Kumar, a developer interested in AI/ML and software development. I enjoy building projects, exploring new technologies, and learning by working on real-world problems.
 
 Currently, I’m focused on improving my DSA and development skills while exploring AI/ML and research. I also enjoy participating in hackathons and turning ideas into practical projects.
 
 Always learning, building, and looking for opportunities to create something useful.
 
- #Tech Stack
+ Tech Stack
 
 <div align="center">💻 Languages
 
@@ -43,7 +43,7 @@ Always learning, building, and looking for opportunities to create something use
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" /></div>---
 
-🚀 What I'm Currently Working On
+ What I'm Currently Working On
 
 <div align="center">🔥 Area| 🎯 Focus
 💻 Web Development| MERN / Next.js
