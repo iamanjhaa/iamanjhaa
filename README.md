@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/stars/iamanjhaa?label=Stars&style=for-the-badge&color=6A11CB"/>
 </a></div>---
 
- #About Me
+ About Me
 Hi, I’m Aman Kumar, a developer interested in AI/ML and software development. I enjoy building projects, exploring new technologies, and learning by working on real-world problems.
 
 Currently, I’m focused on improving my DSA and development skills while exploring AI/ML and research. I also enjoy participating in hackathons and turning ideas into practical projects.
