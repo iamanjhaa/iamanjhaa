@@ -1,7 +1,14 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,100:2575FC&text=Hi%20There!%20I'm%20Aman%20Kumar%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=MERN%20Developer%20%7C%20DSA%20(Java)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20"/><a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+💻;DSA+%7C+Java+Enthusiast+☕;Building+Real-World+Projects+🚀;Exploring+AI+%26+Machine+Learning+🤖;Turning+Ideas+Into+Products+✨" alt="Typing SVG" />
-</a><br/><br/>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,100:2575FC&text=Hi%20There!%20I'm%20Aman%20Kumar%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=MERN%20Developer%20%7C%20DSA%20(Java)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%92%BB;DSA+%7C+Java+Enthusiast+%E2%98%95;Building+Real-World+Projects+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Products+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+</div>
 <img src="https://komarev.com/ghpvc/?username=iamanjhaa&label=PROFILE%20VIEWS&color=6A11CB&style=for-the-badge"/><br/><br/>
 
 <a href="https://github.com/iamanjhaa">
