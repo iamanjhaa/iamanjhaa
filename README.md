@@ -61,21 +61,6 @@ Always learning, building, and looking for opportunities to create something use
 
 </div>---
 
-📚 Currently Learning
-
-<div align="center">"Java" (https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-
-"DSA" (https://img.shields.io/badge/DSA-Learning-2575FC?style=for-the-badge)
-
-"Algorithms" (https://img.shields.io/badge/Algorithms-Learning-yellow?style=for-the-badge)
-
-"Competitive Programming" (https://img.shields.io/badge/Competitive%20Programming-Learning-yellow?style=for-the-badge)
-
-"MERN" (https://img.shields.io/badge/MERN%20Stack-Active%20Development-61DAFB?style=for-the-badge)
-
-"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge)
-
-</div>---
 
 🌟 Featured Projects
 
@@ -113,18 +98,6 @@ Always learning, building, and looking for opportunities to create something use
                           ▼
                     🚀 BUILDING
 
----
-
-🏆 Goals
-
-- [ ] Become a strong Software Engineer
-- [ ] Master DSA & Problem Solving
-- [ ] Build production-ready Full-Stack Applications
-- [ ] Develop strong AI/ML fundamentals
-- [ ] Contribute to Open Source
-- [ ] Build products that solve real-world problems
-
----
 
 📈 Coding Profiles
 
